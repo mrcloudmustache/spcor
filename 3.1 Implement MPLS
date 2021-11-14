@@ -1,0 +1,21 @@
+## 3.1.a LDP Sync
+
+* LDP sync is not enabled by default.
+* With LDP sync the IGP will always choose the best and shortest path to the destination.
+* When LDP sync is enabled the router will start advertising the highest cost on the effected link.
+* Enable under the IGP 
+* ```
+  conf t
+  router ospf 1
+  mpls ldp sync
+  ```
+
+**LDP Sync Lab**
+
+* Create access-list that blocks TCP port 646 betweem LDP nieghbors.
+* Clear LDP session between neighbors with ```clear mpls ldp neighbor <neighbor-ip-address>```
+* The path becomes unlabled creating a routing black hole
+
+
+
+
