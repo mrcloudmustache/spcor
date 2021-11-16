@@ -1,7 +1,7 @@
 This repo is my study material for the Cisco 350-501 SPCOR exam.
 
 ## Exam links
-**Exam topics** - [Link] (https://learningnetwork.cisco.com/s/spcor-exam-topics)
+**Exam topics** - [Link](https://learningnetwork.cisco.com/s/spcor-exam-topics)  
 **Free study material** - [Link](https://learningnetwork.cisco.com/s/learning-plan-detail-standard?ltui__urlRecordId=a1c3i000003OvP0AAK&ltui__urlRedirect=learning-plan-detail-standard)
 
 ## Technical links
