@@ -1,0 +1,11 @@
+## Unified MPLS
+
+[Unified MPLS Cisco Site](https://www.cisco.com/c/en/us/support/docs/multiprotocol-label-switching-mpls/mpls/118846-config-mpls-00.html)
+
+* Provides MPLS scalling by using multiple technologies
+  * IGP (OSPF, ISIS)
+  * LDP for the transport label
+  * BGP plus label
+* Solves the problem of a large IGP domain. 
+* Creates multiple IGP processes or domains
+  * Connects domains using iBGP
