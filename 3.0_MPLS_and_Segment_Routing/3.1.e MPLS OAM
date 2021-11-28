@@ -1,0 +1,1 @@
+* ping mpls ipv4 92.0.0.5 255.255.255.255 source 92.0.0.14 verbose
